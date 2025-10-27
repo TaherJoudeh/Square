@@ -2,6 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Release](https://img.shields.io/badge/Release-v1.0.0-orange)
 
 > A fast-paced arcade dodge game built in Java where survival is everything. Dodge falling enemies, collect power-ups, and compete for the highest score!
 
