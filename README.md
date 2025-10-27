@@ -31,12 +31,25 @@ Square is an arcade-style survival game where you control a customizable square 
 
 ## 📸 Screenshots
 
-<!-- Add your screenshots here -->
-```
-[Main Menu]        [Gameplay]        [Customization]        [Power-Up Action]
-```
+![Main_menu](https://github.com/user-attachments/assets/71298616-3bc5-4148-9ece-746551f7d144)
+Main Menu
 
-*Screenshots coming soon!*
+![Gameplay](https://github.com/user-attachments/assets/2f2af680-0550-4d2e-b32d-47aa1027c6ba)
+Gameplay
+
+![Customization](https://github.com/user-attachments/assets/88c48a8c-d321-4ecc-9856-b094f588ca27)
+Customization
+
+![Invisibility_powerup](https://github.com/user-attachments/assets/f4ed73f7-4034-4458-bd4c-0c9d24885159)
+Invisibility Powerup
+
+![Machinegunner_powerup](https://github.com/user-attachments/assets/af755f83-7029-4217-9985-d8d1564af531)
+Machinegunner Powerup
+
+![Boost_powerup](https://github.com/user-attachments/assets/912c8753-faeb-42a8-bc52-899a5133e961)
+Boost Powerup
+
+
 
 ---
 
