@@ -1,0 +1,1613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BackOnTrack.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>BackOnTrack.mp3</original>
+    <mtime>1454894126</mtime>
+    <size>19168</size>
+    <md5>91c0f2580e70ae87ac86887c4134846e</md5>
+    <crc32>be02294b</crc32>
+    <sha1>9bad822f74dca7677978e66c795a1ad550586269</sha1>
+  </file>
+  <file name="BackOnTrack.mp3" source="original">
+    <mtime>1454893274</mtime>
+    <size>1325884</size>
+    <md5>815d221afd1744bd11028c3be3387a82</md5>
+    <crc32>78c20f81</crc32>
+    <sha1>c434ea61c76e90586ceb9734dea377188ff00c40</sha1>
+    <format>VBR MP3</format>
+    <length>82.83</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="BackOnTrack.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>BackOnTrack.mp3</original>
+    <mtime>1454893677</mtime>
+    <size>991847</size>
+    <md5>e0cab4559e7c51de690eff2401f9ec78</md5>
+    <crc32>eaa01668</crc32>
+    <sha1>a6d7f53c9e57adcc334019513634f8dc22a23c49</sha1>
+    <length>82.78</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="BackOnTrack.png" source="derivative">
+    <format>PNG</format>
+    <original>BackOnTrack.mp3</original>
+    <mtime>1454893695</mtime>
+    <size>9767</size>
+    <md5>9fac9e8319ace463029e1f12f1ed2adc</md5>
+    <crc32>cb3d1063</crc32>
+    <sha1>5d56e8f0f24c3a86882e3ff3083166977fb27200</sha1>
+  </file>
+  <file name="BackOnTrack_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>BackOnTrack_esslow.json.gz</original>
+    <mtime>1454894377</mtime>
+    <size>1878</size>
+    <md5>6da3eee64d44a4b2f3015aeec0c461e5</md5>
+    <crc32>2bd328b4</crc32>
+    <sha1>4f96fd21d42cb1606824f18682567cef3a619df2</sha1>
+  </file>
+  <file name="BackOnTrack_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>BackOnTrack.mp3</original>
+    <mtime>1454893908</mtime>
+    <size>21935</size>
+    <md5>083fe4a1f77332db6995343c87623e5d</md5>
+    <crc32>b9dcc29a</crc32>
+    <sha1>f86833e566a4c42f66fb34de27c98bde43d1bf2e</sha1>
+  </file>
+  <file name="BackOnTrack_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>BackOnTrack.mp3</original>
+    <mtime>1454893777</mtime>
+    <size>255442</size>
+    <md5>ec1e79aeb43fe3f7b8ccc9690a11350b</md5>
+    <crc32>5dfb1a33</crc32>
+    <sha1>b7d648e62a93b330ee58f015457515c7a2b9ae08</sha1>
+  </file>
+  <file name="BaseAfterBase.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>BaseAfterBase.mp3</original>
+    <mtime>1454894077</mtime>
+    <size>22456</size>
+    <md5>16a8295a729ee0b242b6426e3f23def2</md5>
+    <crc32>4896e590</crc32>
+    <sha1>0aced9fe80712a37a48b71ffada31874808c27c6</sha1>
+  </file>
+  <file name="BaseAfterBase.mp3" source="original">
+    <mtime>1454893292</mtime>
+    <size>1366130</size>
+    <md5>ea337dec695b6ffa77b8bc93ad3e2f6f</md5>
+    <crc32>40c7e13a</crc32>
+    <sha1>e609cc6976c0e715610e314f1662694a667337b7</sha1>
+    <format>VBR MP3</format>
+    <length>85.08</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="BaseAfterBase.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>BaseAfterBase.mp3</original>
+    <mtime>1454893592</mtime>
+    <size>1070131</size>
+    <md5>d2d7858f3dac56f85f55f8229042c120</md5>
+    <crc32>ed258f39</crc32>
+    <sha1>d7385ae107fbf2894650c471f6a04d7c3f4caa76</sha1>
+    <length>85.05</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="BaseAfterBase.png" source="derivative">
+    <format>PNG</format>
+    <original>BaseAfterBase.mp3</original>
+    <mtime>1454893767</mtime>
+    <size>11360</size>
+    <md5>bb677009d489912839bad77a672df78a</md5>
+    <crc32>96c9c04d</crc32>
+    <sha1>bdf0e9db953e0a96623399f53cff6dc28e8fc743</sha1>
+  </file>
+  <file name="BaseAfterBase_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>BaseAfterBase_esslow.json.gz</original>
+    <mtime>1454894347</mtime>
+    <size>1852</size>
+    <md5>4bc54c464e183db734cf917f48ef5b3c</md5>
+    <crc32>cc67ee67</crc32>
+    <sha1>7a0a71a677b49bca19367e7cecc894810fe802c4</sha1>
+  </file>
+  <file name="BaseAfterBase_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>BaseAfterBase.mp3</original>
+    <mtime>1454893814</mtime>
+    <size>22217</size>
+    <md5>591b965cc598f6d8ad528a85e70a45ae</md5>
+    <crc32>7a230301</crc32>
+    <sha1>295347fefed178babeac6be1614f37d78c2dd2b0</sha1>
+  </file>
+  <file name="BaseAfterBase_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>BaseAfterBase.mp3</original>
+    <mtime>1454893773</mtime>
+    <size>255685</size>
+    <md5>97e46b3f5b3dee3452a7661d75586498</md5>
+    <crc32>a1cf08f6</crc32>
+    <sha1>6903301351f49994c77e15edd8eb7d7459b4fc27</sha1>
+  </file>
+  <file name="BlastProcessing.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>BlastProcessing.mp3</original>
+    <mtime>1454894050</mtime>
+    <size>25184</size>
+    <md5>a8e0ddc659b6088484880a1f89bf4021</md5>
+    <crc32>d92ad3b8</crc32>
+    <sha1>5ba8fa066d5aecb1020333fe4a6030e501560793</sha1>
+  </file>
+  <file name="BlastProcessing.mp3" source="original">
+    <mtime>1454893302</mtime>
+    <size>1604126</size>
+    <md5>0f18c41b77b7dde56142216c1a7380b9</md5>
+    <crc32>5aff1a40</crc32>
+    <sha1>f9c9f1ce75cd46b57f67695b155910855c9bdee4</sha1>
+    <format>VBR MP3</format>
+    <length>100.23</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="BlastProcessing.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>BlastProcessing.mp3</original>
+    <mtime>1454893628</mtime>
+    <size>1137697</size>
+    <md5>61337c82f952d193ca5547f646c85d7d</md5>
+    <crc32>1a9c1aa5</crc32>
+    <sha1>6037d8ce3bcb543317b8f6a9d3a1e3975316ab13</sha1>
+    <length>100.2</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="BlastProcessing.png" source="derivative">
+    <format>PNG</format>
+    <original>BlastProcessing.mp3</original>
+    <mtime>1454893760</mtime>
+    <size>11443</size>
+    <md5>27a973240c4720fc910d12b6d64ecf1a</md5>
+    <crc32>ea5b6697</crc32>
+    <sha1>596ce1be6926c0d5dd218c5e199d0fcb00c79815</sha1>
+  </file>
+  <file name="BlastProcessing_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>BlastProcessing_esslow.json.gz</original>
+    <mtime>1454894343</mtime>
+    <size>1804</size>
+    <md5>bb6029ac58c1e6743debf4f3be94bc28</md5>
+    <crc32>c5802acd</crc32>
+    <sha1>268206cc2569a1d50d82e6f52b7f67a0e87e101c</sha1>
+  </file>
+  <file name="BlastProcessing_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>BlastProcessing.mp3</original>
+    <mtime>1454893887</mtime>
+    <size>22375</size>
+    <md5>427b065473b4ccaa56989a7966f97b28</md5>
+    <crc32>2faa6e30</crc32>
+    <sha1>3b523b80e05a1eb83cfc0171adf10f3d69e97c24</sha1>
+  </file>
+  <file name="BlastProcessing_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>BlastProcessing.mp3</original>
+    <mtime>1454893771</mtime>
+    <size>248705</size>
+    <md5>e02df00194d6db6c17ac0e4a8a9bcfa1</md5>
+    <crc32>6328c270</crc32>
+    <sha1>25f0e1ed42deac8aafb8c6baf7eab574404bf580</sha1>
+  </file>
+  <file name="CantLetGo.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>CantLetGo.mp3</original>
+    <mtime>1454894068</mtime>
+    <size>16912</size>
+    <md5>9396eeb4be127009bf22ebd12edb0b11</md5>
+    <crc32>b4721aee</crc32>
+    <sha1>e915f0cf97725c338d537462127fd2210829e230</sha1>
+  </file>
+  <file name="CantLetGo.mp3" source="original">
+    <mtime>1454893310</mtime>
+    <size>1345527</size>
+    <md5>22d6470778fc10a278c081ad894e4518</md5>
+    <crc32>5a6c1b09</crc32>
+    <sha1>8413404e1767fead0b50597d31fbc11a706e3f64</sha1>
+    <format>VBR MP3</format>
+    <length>84.06</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="CantLetGo.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>CantLetGo.mp3</original>
+    <mtime>1454893632</mtime>
+    <size>1024543</size>
+    <md5>abae3538e54922168ec2c9a2e70a5b63</md5>
+    <crc32>b8687eb6</crc32>
+    <sha1>e33be4ec8ba37dfc025023d112bada934cf48285</sha1>
+    <length>84.03</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="CantLetGo.png" source="derivative">
+    <format>PNG</format>
+    <original>CantLetGo.mp3</original>
+    <mtime>1454893692</mtime>
+    <size>11077</size>
+    <md5>d969bf401f82f25665e46169da584c1c</md5>
+    <crc32>85476b30</crc32>
+    <sha1>d55375d1705cf533ea7974d0fee65bdb35d4e133</sha1>
+  </file>
+  <file name="CantLetGo_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>CantLetGo_esslow.json.gz</original>
+    <mtime>1454894338</mtime>
+    <size>1870</size>
+    <md5>d7274efdb870c6581111d15014b8c0f2</md5>
+    <crc32>d0901055</crc32>
+    <sha1>8b65dac0f323fc08feaf4e5e1a0000def4aafac9</sha1>
+  </file>
+  <file name="CantLetGo_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>CantLetGo.mp3</original>
+    <mtime>1454893823</mtime>
+    <size>21954</size>
+    <md5>ea42cb88580d64089d9b0e44c2ca2e0d</md5>
+    <crc32>5fd35675</crc32>
+    <sha1>9c230faf78316dfe70f53669871f2143aa00d027</sha1>
+  </file>
+  <file name="CantLetGo_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CantLetGo.mp3</original>
+    <mtime>1454893783</mtime>
+    <size>276097</size>
+    <md5>9de40462fb43394376b3334cfb08d157</md5>
+    <crc32>9a0dffc6</crc32>
+    <sha1>bb86c237bdbeb3273a619badafb739065e36ee52</sha1>
+  </file>
+  <file name="Clubstep.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Clubstep.mp3</original>
+    <mtime>1454894100</mtime>
+    <size>19624</size>
+    <md5>b9743835c9b009c3773fee10d3a9c3a3</md5>
+    <crc32>da4eeb67</crc32>
+    <sha1>a54f88fd298cd7656217a70a7462438c07334eb2</sha1>
+  </file>
+  <file name="Clubstep.mp3" source="original">
+    <mtime>1454893320</mtime>
+    <size>1395474</size>
+    <md5>1b4819aa4fdb9043d8cb5f70bc995086</md5>
+    <crc32>99a576ac</crc32>
+    <sha1>480636339c69b7636c744d80b901c3bae18ad673</sha1>
+    <format>VBR MP3</format>
+    <length>87.17</length>
+    <height>0</height>
+    <width>0</width>
+    <track>01/01</track>
+    <album>Newgrounds Audio Portal - http://www.newgrounds.com/audio</album>
+    <title>{dj-N} Club Step (ID: 396093)</title>
+    <artist>dj-Nate</artist>
+  </file>
+  <file name="Clubstep.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Clubstep.mp3</original>
+    <mtime>1454893579</mtime>
+    <size>1195926</size>
+    <md5>ef6f839b6492f3acead5220ea1ef94a5</md5>
+    <crc32>2d095ad3</crc32>
+    <sha1>3d99c58fe78b79688342d6dfe67368ddaa3d3040</sha1>
+    <length>87.14</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Clubstep.png" source="derivative">
+    <format>PNG</format>
+    <original>Clubstep.mp3</original>
+    <mtime>1454893722</mtime>
+    <size>11407</size>
+    <md5>b426a7bf6af9fc2c1af1dd4d0bc11c76</md5>
+    <crc32>1774eb4b</crc32>
+    <sha1>cd9a80d553cc5004b155a466379057d7831ae0d9</sha1>
+  </file>
+  <file name="Clubstep_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>Clubstep_esslow.json.gz</original>
+    <mtime>1454894334</mtime>
+    <size>1960</size>
+    <md5>628386168bd0277625e0271f5caf8b15</md5>
+    <crc32>3de9d6a7</crc32>
+    <sha1>afcbebffb47ac5340322fee839646a4588666bde</sha1>
+  </file>
+  <file name="Clubstep_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>Clubstep.mp3</original>
+    <mtime>1454894015</mtime>
+    <size>22250</size>
+    <md5>bc3cb88a13b55ff639d5b9aac0c7c70d</md5>
+    <crc32>660b5433</crc32>
+    <sha1>640f8d8e7a6fa5a0070d5a7bb0f41c22b23be638</sha1>
+  </file>
+  <file name="Clubstep_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Clubstep.mp3</original>
+    <mtime>1454893802</mtime>
+    <size>268973</size>
+    <md5>8aea0c45c369224f91144ad41fce4210</md5>
+    <crc32>e29c3c07</crc32>
+    <sha1>0d2678b127af50d072ea79f605f107a494034121</sha1>
+  </file>
+  <file name="Clutterfunk.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Clutterfunk.mp3</original>
+    <mtime>1454894041</mtime>
+    <size>25000</size>
+    <md5>fae458225f518aa1cb3dd1549eebf24b</md5>
+    <crc32>a8115adb</crc32>
+    <sha1>5ec39c85c43d60356a6a06d94cf66927508caf63</sha1>
+  </file>
+  <file name="Clutterfunk.mp3" source="original">
+    <mtime>1454893331</mtime>
+    <size>1550327</size>
+    <md5>ffa5c134eb714e8fcddb9d0de230f5ea</md5>
+    <crc32>cf260efe</crc32>
+    <sha1>de65f4106bbd4d66cf6551492e05f7c4869644a6</sha1>
+    <format>VBR MP3</format>
+    <length>96.86</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Clutterfunk.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Clutterfunk.mp3</original>
+    <mtime>1454893567</mtime>
+    <size>1248254</size>
+    <md5>71f1b8a26d180ba8c1dc94ce0f97b7ed</md5>
+    <crc32>70416005</crc32>
+    <sha1>24825eba5683d345850ad503e900ce47ec2bc735</sha1>
+    <length>96.83</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Clutterfunk.png" source="derivative">
+    <format>PNG</format>
+    <original>Clutterfunk.mp3</original>
+    <mtime>1454893742</mtime>
+    <size>10835</size>
+    <md5>2a487e6f5b7a91c906d6ec325912a8c6</md5>
+    <crc32>92ccbb05</crc32>
+    <sha1>70debd4378f83e9dd22e7c1bf7c63b3e72f375b5</sha1>
+  </file>
+  <file name="Clutterfunk_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>Clutterfunk_esslow.json.gz</original>
+    <mtime>1454894352</mtime>
+    <size>1870</size>
+    <md5>055df2230f1568f7c3fbb0e95d188e3a</md5>
+    <crc32>a607e469</crc32>
+    <sha1>cb91361d9a4200c42fb303adaaea918f1fefba2a</sha1>
+  </file>
+  <file name="Clutterfunk_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>Clutterfunk.mp3</original>
+    <mtime>1454893952</mtime>
+    <size>22645</size>
+    <md5>2da176337d84477101d138e151e0d9d9</md5>
+    <crc32>60dc745a</crc32>
+    <sha1>c55a43b8257d954c16e79de1ba1c1d1d900a3b93</sha1>
+  </file>
+  <file name="Clutterfunk_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Clutterfunk.mp3</original>
+    <mtime>1454893785</mtime>
+    <size>265720</size>
+    <md5>f1edd240b27bc43553ab842ca61c796e</md5>
+    <crc32>3eb2e452</crc32>
+    <sha1>1cf980600e958f3cca1dfd38c183334d26628e74</sha1>
+  </file>
+  <file name="Cycles.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Cycles.mp3</original>
+    <mtime>1454894253</mtime>
+    <size>19728</size>
+    <md5>73dfad2f548a02d748ea65f5abbaf6dc</md5>
+    <crc32>68d0c474</crc32>
+    <sha1>c0f8ecfc836e66aa02d7d9e4a89c348520aec0a3</sha1>
+  </file>
+  <file name="Cycles.mp3" source="original">
+    <mtime>1454893340</mtime>
+    <size>1323794</size>
+    <md5>3b6c74ef2012ddf6fd8548dd3e0e549f</md5>
+    <crc32>0dbfca05</crc32>
+    <sha1>b8c9521ed380451068effa30f7215df6239dd7d5</sha1>
+    <format>VBR MP3</format>
+    <length>82.7</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cycles.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Cycles.mp3</original>
+    <mtime>1454893583</mtime>
+    <size>958853</size>
+    <md5>6095dff7fc7418f5ee2d352448af120d</md5>
+    <crc32>77708339</crc32>
+    <sha1>e537ec94553bce91b7f0f9d7849a44caa297a4fc</sha1>
+    <length>82.67</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cycles.png" source="derivative">
+    <format>PNG</format>
+    <original>Cycles.mp3</original>
+    <mtime>1454893730</mtime>
+    <size>9419</size>
+    <md5>6ac6f51d1fbf715460be07ea49c558b2</md5>
+    <crc32>6d517349</crc32>
+    <sha1>49140d061dabeb6a1380ef9e5dfda2e45c619a1f</sha1>
+  </file>
+  <file name="Cycles_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>Cycles_esslow.json.gz</original>
+    <mtime>1454894356</mtime>
+    <size>1867</size>
+    <md5>c927113fcd889f9f2c560dc4cf8cacba</md5>
+    <crc32>4fbb4842</crc32>
+    <sha1>1236cb6b8f08ad17d9631cdcf1dd171011852068</sha1>
+  </file>
+  <file name="Cycles_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>Cycles.mp3</original>
+    <mtime>1454893876</mtime>
+    <size>22137</size>
+    <md5>044075a9015ff799173a05ef62206960</md5>
+    <crc32>5e8d0207</crc32>
+    <sha1>742988fb6b554070ad7ce7e18cad4d155e640214</sha1>
+  </file>
+  <file name="Cycles_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Cycles.mp3</original>
+    <mtime>1454893791</mtime>
+    <size>268801</size>
+    <md5>e7d0706a46156dcedee04ef062b1b63b</md5>
+    <crc32>01d9bca8</crc32>
+    <sha1>f0eecbdbd868e422e4b4390fe3b0b1511f62107e</sha1>
+  </file>
+  <file name="Deadlocked.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Deadlocked.mp3</original>
+    <mtime>1454894208</mtime>
+    <size>21176</size>
+    <md5>f1e6c46e9ca2f9709d783bc6a1e81e21</md5>
+    <crc32>481f6473</crc32>
+    <sha1>566e0d11267609da61fff6edcbf4ff412c1f7de0</sha1>
+  </file>
+  <file name="Deadlocked.mp3" source="original">
+    <mtime>1454893351</mtime>
+    <size>1692733</size>
+    <md5>ebaaf188a433ed505d34c7fb5007604d</md5>
+    <crc32>9478a46d</crc32>
+    <sha1>55210e8f8fce29ccf2dbdfe057b06771a5359a23</sha1>
+    <format>VBR MP3</format>
+    <length>105.77</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Deadlocked.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Deadlocked.mp3</original>
+    <mtime>1454893668</mtime>
+    <size>1428612</size>
+    <md5>88615440fcdd45bc6ffcfb9a7bb31cc7</md5>
+    <crc32>06dd0a6d</crc32>
+    <sha1>7b03fa45e6464e03281011becb9031003305b1dd</sha1>
+    <length>105.73</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Deadlocked.png" source="derivative">
+    <format>PNG</format>
+    <original>Deadlocked.mp3</original>
+    <mtime>1454893715</mtime>
+    <size>11741</size>
+    <md5>5dc05cd6e98b50b9fa90b7b802f58d82</md5>
+    <crc32>86f298ad</crc32>
+    <sha1>eef00e002b3b9b0e0d2bff7c2b7608dec70a6786</sha1>
+  </file>
+  <file name="Deadlocked_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>Deadlocked_esslow.json.gz</original>
+    <mtime>1454894373</mtime>
+    <size>1802</size>
+    <md5>3c09d99874b62ec5da099730546bf5c3</md5>
+    <crc32>c3b96ea3</crc32>
+    <sha1>7d20a3d2dbcb9501bb61a7e07ba2800a626f6e34</sha1>
+  </file>
+  <file name="Deadlocked_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>Deadlocked.mp3</original>
+    <mtime>1454893898</mtime>
+    <size>22422</size>
+    <md5>71c0e7ab972242b35d519df349032295</md5>
+    <crc32>8604df48</crc32>
+    <sha1>e5b66895d896c6da84478af523d12970b5e64776</sha1>
+  </file>
+  <file name="Deadlocked_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Deadlocked.mp3</original>
+    <mtime>1454893788</mtime>
+    <size>278152</size>
+    <md5>f58ae720017b66e6219d8133d5b78dba</md5>
+    <crc32>4112cb20</crc32>
+    <sha1>66265e5c350e36a6b9876d613221ec7f5a427984</sha1>
+  </file>
+  <file name="DryOut.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>DryOut.mp3</original>
+    <mtime>1454894261</mtime>
+    <size>20656</size>
+    <md5>46128b83f1eb843e20daed34acccc9f6</md5>
+    <crc32>7eba417c</crc32>
+    <sha1>a722d0abfa71a92ab5329f60275c0d22e1459c17</sha1>
+  </file>
+  <file name="DryOut.mp3" source="original">
+    <mtime>1454893361</mtime>
+    <size>1349707</size>
+    <md5>91d4f605f41b015b78f19d78847d199a</md5>
+    <crc32>46444c72</crc32>
+    <sha1>70bdb8156f8689c8e71f65c71d642f39dcd03bbc</sha1>
+    <format>VBR MP3</format>
+    <length>84.32</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="DryOut.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>DryOut.mp3</original>
+    <mtime>1454893637</mtime>
+    <size>1051199</size>
+    <md5>99f28f3a48150d9e07ed19ea4e7733b7</md5>
+    <crc32>ad2e95a5</crc32>
+    <sha1>b119eb08b252638125449c4e3f591f7115b1323b</sha1>
+    <length>84.29</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="DryOut.png" source="derivative">
+    <format>PNG</format>
+    <original>DryOut.mp3</original>
+    <mtime>1454893752</mtime>
+    <size>11814</size>
+    <md5>b4a9ece69e94bb5f92d47a3bb8812d72</md5>
+    <crc32>8685f432</crc32>
+    <sha1>2e7d718522a09148e364c7af440483aa3759d755</sha1>
+  </file>
+  <file name="DryOut_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>DryOut_esslow.json.gz</original>
+    <mtime>1454894369</mtime>
+    <size>1861</size>
+    <md5>f060f94edcbc3a02d42923577971116d</md5>
+    <crc32>69660058</crc32>
+    <sha1>195806186491c66afce8de87e04c32502a1cd5e5</sha1>
+  </file>
+  <file name="DryOut_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>DryOut.mp3</original>
+    <mtime>1454893850</mtime>
+    <size>22241</size>
+    <md5>43b1f21b88c9d3ca5bff63489bbde34d</md5>
+    <crc32>fd17dc18</crc32>
+    <sha1>5d4bcc1a601f7310175c2cc70b183426eab48a4d</sha1>
+  </file>
+  <file name="DryOut_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>DryOut.mp3</original>
+    <mtime>1454893789</mtime>
+    <size>266644</size>
+    <md5>e112e221c103c6962298faa8fef969b5</md5>
+    <crc32>fa798af5</crc32>
+    <sha1>1aa1f91bc832009145c45123daad44a1917456bb</sha1>
+  </file>
+  <file name="Electrodynamix.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Electrodynamix.mp3</original>
+    <mtime>1454894113</mtime>
+    <size>18240</size>
+    <md5>a49ca518e079d17dd8fdd6332d216a25</md5>
+    <crc32>40cd09e7</crc32>
+    <sha1>7264e019e43300817dc39420859ab474d9d45786</sha1>
+  </file>
+  <file name="Electrodynamix.mp3" source="original">
+    <mtime>1454893371</mtime>
+    <size>1324756</size>
+    <md5>6bb65be3fbb19874152bf402d085414b</md5>
+    <crc32>3cfc2b6c</crc32>
+    <sha1>88b73bee9c33a8bc686d688d78dc650eb4719135</sha1>
+    <format>VBR MP3</format>
+    <length>82.76</length>
+    <height>0</height>
+    <width>0</width>
+    <track>01/01</track>
+    <album>Newgrounds Audio Portal - http://www.newgrounds.com/audio</album>
+    <title>{dj-N} Electrodynamix (ID: 368392)</title>
+    <artist>dj-Nate</artist>
+  </file>
+  <file name="Electrodynamix.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Electrodynamix.mp3</original>
+    <mtime>1454893642</mtime>
+    <size>1258773</size>
+    <md5>d80d08fc20373d64a0e52b3ebf423365</md5>
+    <crc32>324223df</crc32>
+    <sha1>11b5b1ef9083763380170278b3a031df92db3905</sha1>
+    <length>82.71</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Electrodynamix.png" source="derivative">
+    <format>PNG</format>
+    <original>Electrodynamix.mp3</original>
+    <mtime>1454893688</mtime>
+    <size>11105</size>
+    <md5>c81b755ec0c69f8ebd435ffd2512a69e</md5>
+    <crc32>fc967dd4</crc32>
+    <sha1>07179bd9bc3d819be01c5d998ab8d8f8f27cd250</sha1>
+  </file>
+  <file name="Electrodynamix_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>Electrodynamix_esslow.json.gz</original>
+    <mtime>1454894364</mtime>
+    <size>1967</size>
+    <md5>00ff8c05107c1749492b15a22a59e102</md5>
+    <crc32>81357663</crc32>
+    <sha1>7425709a2779fad05ddd77090cb6b526199401ae</sha1>
+  </file>
+  <file name="Electrodynamix_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>Electrodynamix.mp3</original>
+    <mtime>1454893858</mtime>
+    <size>21906</size>
+    <md5>666a1d7f79bb50794933622f3ef3ce37</md5>
+    <crc32>9638626c</crc32>
+    <sha1>404b18b03cc478aa4155e588b617f0446c18c128</sha1>
+  </file>
+  <file name="Electrodynamix_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Electrodynamix.mp3</original>
+    <mtime>1454893792</mtime>
+    <size>289682</size>
+    <md5>50e9543f6af987a6219309399a3b9e2d</md5>
+    <crc32>da49220c</crc32>
+    <sha1>659626fa1dc380be0b850bb989f7d58f15b43012</sha1>
+  </file>
+  <file name="Electroman.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Electroman.mp3</original>
+    <mtime>1454894174</mtime>
+    <size>26912</size>
+    <md5>bbe3247bf4240dd79927915ef99a588e</md5>
+    <crc32>56e72e4f</crc32>
+    <sha1>c315414a8cd60a9293c3579fa10ce3d3a6e92e17</sha1>
+  </file>
+  <file name="Electroman.mp3" source="original">
+    <mtime>1454893384</mtime>
+    <size>1520652</size>
+    <md5>43e0f7f24eaa88e3ec8b1720874ceda8</md5>
+    <crc32>c269d81c</crc32>
+    <sha1>4165e9ad754c62ab8ef9b1f9fb7c59564d7c5ebc</sha1>
+    <format>VBR MP3</format>
+    <length>95.01</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Electroman.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Electroman.mp3</original>
+    <mtime>1454893649</mtime>
+    <size>1130296</size>
+    <md5>c11722ef9566c9c73bcc9cae8f39aed1</md5>
+    <crc32>68fad2d8</crc32>
+    <sha1>4c56607f3250d927e23c138983bee3ec1592a895</sha1>
+    <length>94.96</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Electroman.png" source="derivative">
+    <format>PNG</format>
+    <original>Electroman.mp3</original>
+    <mtime>1454893711</mtime>
+    <size>10406</size>
+    <md5>bde995ed8b5b72c3c6ae156e3c197b0c</md5>
+    <crc32>3c2346e8</crc32>
+    <sha1>09bb656dccc64f09239977646897a606d364c750</sha1>
+  </file>
+  <file name="Electroman_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>Electroman_esslow.json.gz</original>
+    <mtime>1454894360</mtime>
+    <size>1862</size>
+    <md5>3f43f484da6aeb6d9d1687e433b2811e</md5>
+    <crc32>8ea0bcb0</crc32>
+    <sha1>e7d91688bcd6411cbb561f04a487aff578e7b818</sha1>
+  </file>
+  <file name="Electroman_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>Electroman.mp3</original>
+    <mtime>1454893841</mtime>
+    <size>22508</size>
+    <md5>66df7f9a9f3de5013889a0fd2eb3d820</md5>
+    <crc32>8af2cdef</crc32>
+    <sha1>6e6b64279f79a6387055792c22028fb24e2a0355</sha1>
+  </file>
+  <file name="Electroman_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Electroman.mp3</original>
+    <mtime>1454893786</mtime>
+    <size>255384</size>
+    <md5>30ff575c1ba538417bb97ba2c5c0a2b2</md5>
+    <crc32>9e8d22bf</crc32>
+    <sha1>4282d938bd8e940fafc007f7b79376a940767c1c</sha1>
+  </file>
+  <file name="GeometricalDominator.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>GeometricalDominator.mp3</original>
+    <mtime>1454894227</mtime>
+    <size>25976</size>
+    <md5>80990d187b156614a727bbcdccd4e8b8</md5>
+    <crc32>dfd685b1</crc32>
+    <sha1>0f866814805fa1fa2724cc3ae535a49881ae17db</sha1>
+  </file>
+  <file name="GeometricalDominator.mp3" source="original">
+    <mtime>1454893395</mtime>
+    <size>1654699</size>
+    <md5>334f8eb62e28ede6b768700b3f8c885f</md5>
+    <crc32>9738cbd3</crc32>
+    <sha1>be062ede77433b39e063731665ba5ad2f9823020</sha1>
+    <format>VBR MP3</format>
+    <length>103.39</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="GeometricalDominator.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>GeometricalDominator.mp3</original>
+    <mtime>1454893663</mtime>
+    <size>1338208</size>
+    <md5>d59bab1313f4fec59ca141ff875d6ab2</md5>
+    <crc32>34de2163</crc32>
+    <sha1>f16eafa560f81be8efd7b96e90523662108dd4cb</sha1>
+    <length>103.35</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="GeometricalDominator.png" source="derivative">
+    <format>PNG</format>
+    <original>GeometricalDominator.mp3</original>
+    <mtime>1454893749</mtime>
+    <size>7797</size>
+    <md5>8009f07e0c249f73cf35655309c1802b</md5>
+    <crc32>9b202d55</crc32>
+    <sha1>f04401259a8a69fe5220688a495cfd78339de756</sha1>
+  </file>
+  <file name="GeometricalDominator_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>GeometricalDominator_esslow.json.gz</original>
+    <mtime>1454894329</mtime>
+    <size>1827</size>
+    <md5>e27778e7a1cce1fea31e5b7a34ddc769</md5>
+    <crc32>f90ae78e</crc32>
+    <sha1>d0df383fe0962651cf7b76c908f67d47ce744921</sha1>
+  </file>
+  <file name="GeometricalDominator_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>GeometricalDominator.mp3</original>
+    <mtime>1454894028</mtime>
+    <size>22506</size>
+    <md5>fd58bd055497108350b4038e10263410</md5>
+    <crc32>c49a4739</crc32>
+    <sha1>4fba08c3702bea6be11d476c42822df224824122</sha1>
+  </file>
+  <file name="GeometricalDominator_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>GeometricalDominator.mp3</original>
+    <mtime>1454893797</mtime>
+    <size>262822</size>
+    <md5>38084dd6e3eae26e21c7f623e5d61acf</md5>
+    <crc32>ee59f21b</crc32>
+    <sha1>507daef19c82ae13bb6b0e42b214c505ee96ef03</sha1>
+  </file>
+  <file name="HexagonForce.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>HexagonForce.mp3</original>
+    <mtime>1454894236</mtime>
+    <size>19736</size>
+    <md5>398fd4c1aa34642b0c21b564db9065e7</md5>
+    <crc32>88513b66</crc32>
+    <sha1>4509c6616dee16be5bc246f3b2771015db49a12d</sha1>
+  </file>
+  <file name="HexagonForce.mp3" source="original">
+    <mtime>1454893405</mtime>
+    <size>1449182</size>
+    <md5>ea4303f5d0de19cde1df5d28dbe90069</md5>
+    <crc32>6a9c8cb2</crc32>
+    <sha1>6e0c10b05bd8eb3d634b9f5687be8c480ad76b1f</sha1>
+    <format>VBR MP3</format>
+    <length>90.54</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="HexagonForce.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>HexagonForce.mp3</original>
+    <mtime>1454893673</mtime>
+    <size>1098230</size>
+    <md5>99ff094be2a95ece004963cc3e27e752</md5>
+    <crc32>89a818a3</crc32>
+    <sha1>9b3f7a3b7bba5669096093040c40c8ca042ce819</sha1>
+    <length>90.51</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="HexagonForce.png" source="derivative">
+    <format>PNG</format>
+    <original>HexagonForce.mp3</original>
+    <mtime>1454893763</mtime>
+    <size>12474</size>
+    <md5>c870378c9cc80fc6bd6930a1a1cd5231</md5>
+    <crc32>e7f4f25c</crc32>
+    <sha1>2c0dc524fe33fb878af4bd3b788606187890e705</sha1>
+  </file>
+  <file name="HexagonForce_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>HexagonForce_esslow.json.gz</original>
+    <mtime>1454894325</mtime>
+    <size>1851</size>
+    <md5>b9367c3e19afc0dfe8c8ed9e62f75811</md5>
+    <crc32>7d184ce5</crc32>
+    <sha1>a02ed5396fe7ef88f8f3a42e163056f874372f55</sha1>
+  </file>
+  <file name="HexagonForce_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>HexagonForce.mp3</original>
+    <mtime>1454893832</mtime>
+    <size>22384</size>
+    <md5>a68d42adc60a3c5e58e548a2878cbb02</md5>
+    <crc32>04959835</crc32>
+    <sha1>8849960fcbc27ff247dbbe0582ca3d3b4df0406f</sha1>
+  </file>
+  <file name="HexagonForce_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>HexagonForce.mp3</original>
+    <mtime>1454893803</mtime>
+    <size>261904</size>
+    <md5>e12e3b2ee8ea0837e715fecf96758d2e</md5>
+    <crc32>591cb388</crc32>
+    <sha1>6af76c73c7940180b59dbd5a50633d4992f5db12</sha1>
+  </file>
+  <file name="Jumper.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Jumper.mp3</original>
+    <mtime>1454894197</mtime>
+    <size>16960</size>
+    <md5>e0764436bd43fc919c57c24071474abf</md5>
+    <crc32>fa99affc</crc32>
+    <sha1>03b26ce4b5059237a04413f3517eeaf4947b436a</sha1>
+  </file>
+  <file name="Jumper.mp3" source="original">
+    <mtime>1454893419</mtime>
+    <size>1403323</size>
+    <md5>c86107f76d9f94ef4d9f947d2bc24b66</md5>
+    <crc32>6e66158d</crc32>
+    <sha1>f532a6e2a9ec1562863abd3797b4c9f0b2810f16</sha1>
+    <format>VBR MP3</format>
+    <length>87.67</length>
+    <height>0</height>
+    <width>0</width>
+    <track>01/01</track>
+    <album>Newgrounds Audio Portal - http://www.newgrounds.com/audio</album>
+    <title>-Jumper- (ID: 168734)</title>
+    <artist>Waterflame</artist>
+  </file>
+  <file name="Jumper.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jumper.mp3</original>
+    <mtime>1454893658</mtime>
+    <size>1069662</size>
+    <md5>2ffc25a5c020c802b76e591eda9a92f6</md5>
+    <crc32>a5a228eb</crc32>
+    <sha1>544139c886152d0508562b769784263867007c54</sha1>
+    <length>87.64</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jumper.png" source="derivative">
+    <format>PNG</format>
+    <original>Jumper.mp3</original>
+    <mtime>1454893702</mtime>
+    <size>12186</size>
+    <md5>22ed5bf41ecbbc82ac4e2c13185e2124</md5>
+    <crc32>558bf519</crc32>
+    <sha1>acf31c7265d23b71821e77901306d8f571c12efd</sha1>
+  </file>
+  <file name="Jumper_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>Jumper_esslow.json.gz</original>
+    <mtime>1454894293</mtime>
+    <size>1933</size>
+    <md5>8ac6495b3064cac805c0bdae2992ef83</md5>
+    <crc32>c72b029e</crc32>
+    <sha1>5cbb0ad4d37ed3a8865dc421efa635f5684adc9d</sha1>
+  </file>
+  <file name="Jumper_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>Jumper.mp3</original>
+    <mtime>1454893867</mtime>
+    <size>21876</size>
+    <md5>043bd42f5f396bb87467dee46e12a436</md5>
+    <crc32>9c7f7480</crc32>
+    <sha1>c65eed05a3fce0dce909271f49e331c1f9d4d056</sha1>
+  </file>
+  <file name="Jumper_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Jumper.mp3</original>
+    <mtime>1454893805</mtime>
+    <size>288389</size>
+    <md5>eda2205fe2ad6827616fac15925ff23a</md5>
+    <crc32>d0388c39</crc32>
+    <sha1>c9f5388aea6e2f23778a0353b4180ec869fe7481</sha1>
+  </file>
+  <file name="Polargeist.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Polargeist.mp3</original>
+    <mtime>1454894218</mtime>
+    <size>19096</size>
+    <md5>3493b90463d3d25bad48bafce8a70052</md5>
+    <crc32>e4ac99d6</crc32>
+    <sha1>2f252742f2a2e6ad15f663b0dae68dd8cff38daf</sha1>
+  </file>
+  <file name="Polargeist.mp3" source="original">
+    <mtime>1454893435</mtime>
+    <size>1527758</size>
+    <md5>f5343a3d736dbbddae797198705fb1c7</md5>
+    <crc32>433ea27a</crc32>
+    <sha1>0e4cd1776ebef88e82cedf809bbdcdae5173aa99</sha1>
+    <format>VBR MP3</format>
+    <length>95.45</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Polargeist.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Polargeist.mp3</original>
+    <mtime>1454893653</mtime>
+    <size>1283452</size>
+    <md5>61620aef1d783d09d376a2d4a3f23d4b</md5>
+    <crc32>de125201</crc32>
+    <sha1>e6de1fc0bafd14f7886b0c926e5d6e74c28a5a1c</sha1>
+    <length>95.43</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Polargeist.png" source="derivative">
+    <format>PNG</format>
+    <original>Polargeist.mp3</original>
+    <mtime>1454893727</mtime>
+    <size>10630</size>
+    <md5>3e1c445c484868ad2b0d13f3e0add1f9</md5>
+    <crc32>c25b675d</crc32>
+    <sha1>3958f033a789f11058e5d93464aa8de0d166baff</sha1>
+  </file>
+  <file name="Polargeist_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>Polargeist_esslow.json.gz</original>
+    <mtime>1454894289</mtime>
+    <size>1871</size>
+    <md5>5cbf86835b780af1dba7b877eed5d985</md5>
+    <crc32>c5e8c120</crc32>
+    <sha1>9b54d6016dd930ddd6a11cc0f6a34484bd09aecb</sha1>
+  </file>
+  <file name="Polargeist_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>Polargeist.mp3</original>
+    <mtime>1454894003</mtime>
+    <size>22604</size>
+    <md5>4ea5c1f1a865d6b8c6187b078f235139</md5>
+    <crc32>878e61d5</crc32>
+    <sha1>87b46f2c927b5baa4edd033a2611e56414652667</sha1>
+  </file>
+  <file name="Polargeist_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Polargeist.mp3</original>
+    <mtime>1454893800</mtime>
+    <size>270992</size>
+    <md5>401015c558f41f222857c51258c2b107</md5>
+    <crc32>ee378bda</crc32>
+    <sha1>8839a9b8cb2642fe19e48fa52f8c608dcc6b6aa7</sha1>
+  </file>
+  <file name="StayInsideMe.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>StayInsideMe.mp3</original>
+    <mtime>1454894185</mtime>
+    <size>20080</size>
+    <md5>557c00b01e3a5022a56a97dc6699f404</md5>
+    <crc32>4a354046</crc32>
+    <sha1>c207bac16bf78907c7579359879d117f186b8dd6</sha1>
+  </file>
+  <file name="StayInsideMe.mp3" source="original">
+    <mtime>1454893451</mtime>
+    <size>1681071</size>
+    <md5>5bff33171c1b2c99960df085d850b6d1</md5>
+    <crc32>155b57d7</crc32>
+    <sha1>a35fd7fb57f909f4c21627df2097aac39220f005</sha1>
+    <format>VBR MP3</format>
+    <length>105.04</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="StayInsideMe.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>StayInsideMe.mp3</original>
+    <mtime>1454893619</mtime>
+    <size>1472378</size>
+    <md5>5818897a1fcda5b5a6664f582f200767</md5>
+    <crc32>39aa72fd</crc32>
+    <sha1>d49734bee51556f379784d5e816c29aed8c12e09</sha1>
+    <length>105</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="StayInsideMe.png" source="derivative">
+    <format>PNG</format>
+    <original>StayInsideMe.mp3</original>
+    <mtime>1454893745</mtime>
+    <size>10824</size>
+    <md5>55f037857323a4e38e896ae21c28d710</md5>
+    <crc32>3f4b49c6</crc32>
+    <sha1>f125d03d195afacbb5b1acbac07cfa383317a7ef</sha1>
+  </file>
+  <file name="StayInsideMe_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>StayInsideMe_esslow.json.gz</original>
+    <mtime>1454894284</mtime>
+    <size>1825</size>
+    <md5>f9d6f21145334cf87c1285f8c34899ee</md5>
+    <crc32>3b72ea88</crc32>
+    <sha1>48271bd5627a5cfbc42774dd1d90ab64f136f8ae</sha1>
+  </file>
+  <file name="StayInsideMe_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>StayInsideMe.mp3</original>
+    <mtime>1454893963</mtime>
+    <size>22602</size>
+    <md5>4f3631f3105c183fc4841879f67000d0</md5>
+    <crc32>0fc186b2</crc32>
+    <sha1>83d452c4c7b4099d2d71a43081aa4f5017ffcf65</sha1>
+  </file>
+  <file name="StayInsideMe_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>StayInsideMe.mp3</original>
+    <mtime>1454893796</mtime>
+    <size>250984</size>
+    <md5>9c2226d75e083767f2b09c50e6ed32b5</md5>
+    <crc32>44002cbe</crc32>
+    <sha1>8a0c603c121e47ccd01fbf4693d539facff0d4e3</sha1>
+  </file>
+  <file name="StereoMadness.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>StereoMadness.mp3</original>
+    <mtime>1454894163</mtime>
+    <size>18160</size>
+    <md5>a9d3961251df786f1a0a324c55853479</md5>
+    <crc32>9e1c9060</crc32>
+    <sha1>37301bc727c0177b56cfa228a77dfe86e20eb668</sha1>
+  </file>
+  <file name="StereoMadness.mp3" source="original">
+    <mtime>1454893460</mtime>
+    <size>1389414</size>
+    <md5>adec44a314c4bfea335d5e56358362da</md5>
+    <crc32>6f9fa8be</crc32>
+    <sha1>11f56e1e39289eb32efbb81978eb737b26bb5ce3</sha1>
+    <format>VBR MP3</format>
+    <length>86.8</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="StereoMadness.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>StereoMadness.mp3</original>
+    <mtime>1454893623</mtime>
+    <size>1154506</size>
+    <md5>72f43d039c9e635e6a6ab157522e25ea</md5>
+    <crc32>651862c7</crc32>
+    <sha1>de9588eb22c1c8ebccd087211e7555604a366a2f</sha1>
+    <length>86.76</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="StereoMadness.png" source="derivative">
+    <format>PNG</format>
+    <original>StereoMadness.mp3</original>
+    <mtime>1454893719</mtime>
+    <size>10716</size>
+    <md5>5334c49ea0e480c46ea364c40a135355</md5>
+    <crc32>1076dc0e</crc32>
+    <sha1>c6089822e1fc0b691a58fcb4d2cd95a86beb2b7f</sha1>
+  </file>
+  <file name="StereoMadness_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>StereoMadness_esslow.json.gz</original>
+    <mtime>1454894274</mtime>
+    <size>1881</size>
+    <md5>d714929f62dcbc001f23e794e3d04db4</md5>
+    <crc32>0e08f00c</crc32>
+    <sha1>853de0a04c5d7ddd2a52e1140ac2665bbd252070</sha1>
+  </file>
+  <file name="StereoMadness_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>StereoMadness.mp3</original>
+    <mtime>1454893918</mtime>
+    <size>21915</size>
+    <md5>9e448bd3502025f0ac33964e10fc4801</md5>
+    <crc32>42e2d55a</crc32>
+    <sha1>0d298248a845bfd1af2fc54c14893ef650d18cb2</sha1>
+  </file>
+  <file name="StereoMadness_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>StereoMadness.mp3</original>
+    <mtime>1454893775</mtime>
+    <size>255123</size>
+    <md5>3a5eb8515a09e50a2dd22e845cc375c5</md5>
+    <crc32>1468dc79</crc32>
+    <sha1>40d2c99b088060cf1dad147ffcbf951d6f7a5fc5</sha1>
+  </file>
+  <file name="TheoryOfEverything.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>TheoryOfEverything.mp3</original>
+    <mtime>1454894087</mtime>
+    <size>20000</size>
+    <md5>8ae125a269578e89bdf76ef1d941bd8b</md5>
+    <crc32>599590c9</crc32>
+    <sha1>f1bdfb9f8eb7a273f71dcd2fe738d7503b3dcb82</sha1>
+  </file>
+  <file name="TheoryOfEverything.mp3" source="original">
+    <mtime>1454893470</mtime>
+    <size>1536253</size>
+    <md5>e9ada99c5102f243ad66215b7cb4468b</md5>
+    <crc32>cbaf7d49</crc32>
+    <sha1>bbbaed7a05e0d33344eaceaeed6372b9431d1de9</sha1>
+    <format>VBR MP3</format>
+    <length>95.97</length>
+    <height>0</height>
+    <width>0</width>
+    <track>01/01</track>
+    <album>Newgrounds Audio Portal - http://www.newgrounds.com/audio</album>
+    <title>{dj-N} Theory of Everything XL (ID: 354826)</title>
+    <artist>dj-Nate</artist>
+  </file>
+  <file name="TheoryOfEverything.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>TheoryOfEverything.mp3</original>
+    <mtime>1454893601</mtime>
+    <size>1170831</size>
+    <md5>79936dfc08b76436e3d3e98673042498</md5>
+    <crc32>61fa86df</crc32>
+    <sha1>d557667eaa03848ec9c09cf8474f5350e9eb8eb5</sha1>
+    <length>95.94</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="TheoryOfEverything.png" source="derivative">
+    <format>PNG</format>
+    <original>TheoryOfEverything.mp3</original>
+    <mtime>1454893738</mtime>
+    <size>11565</size>
+    <md5>c6c5b4b43dc881f3624f139e702e71d9</md5>
+    <crc32>898b0d8e</crc32>
+    <sha1>f04cfb73b443057288f4ee68bb121ad8f38a336f</sha1>
+  </file>
+  <file name="TheoryOfEverything2.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>TheoryOfEverything2.mp3</original>
+    <mtime>1454894245</mtime>
+    <size>20552</size>
+    <md5>e9dcd2568b7f0930666943c02fdb9390</md5>
+    <crc32>f7537a75</crc32>
+    <sha1>e2dd52c560899d99ed8296a859725cac062b4a36</sha1>
+  </file>
+  <file name="TheoryOfEverything2.mp3" source="original">
+    <mtime>1454893480</mtime>
+    <size>1483754</size>
+    <md5>3d1c98a532a193604515b83f8fb948d3</md5>
+    <crc32>1066df27</crc32>
+    <sha1>d61ffeb27d69e80d7baefab6b05dbe317924bef2</sha1>
+    <format>VBR MP3</format>
+    <length>92.71</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="TheoryOfEverything2.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>TheoryOfEverything2.mp3</original>
+    <mtime>1454893684</mtime>
+    <size>1113270</size>
+    <md5>b27d4dc91c9fac2a577df7d22aefb4db</md5>
+    <crc32>476d23bd</crc32>
+    <sha1>5a533120731f0fc6b7e98328cf712d3165fe0500</sha1>
+    <length>92.67</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="TheoryOfEverything2.png" source="derivative">
+    <format>PNG</format>
+    <original>TheoryOfEverything2.mp3</original>
+    <mtime>1454893734</mtime>
+    <size>11579</size>
+    <md5>844b9edd0862abf71159fbca9ba3c5ab</md5>
+    <crc32>bcabb934</crc32>
+    <sha1>928fcb8f1fe2ed8b75f0fb8fd3377cc53ebe072b</sha1>
+  </file>
+  <file name="TheoryOfEverything2_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>TheoryOfEverything2_esslow.json.gz</original>
+    <mtime>1454894299</mtime>
+    <size>1804</size>
+    <md5>4c890f1dc4f80be847ccda68bba53b9b</md5>
+    <crc32>a84c1bf9</crc32>
+    <sha1>701e2d8592d991339710a6acc1f44f21824edd96</sha1>
+  </file>
+  <file name="TheoryOfEverything2_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>TheoryOfEverything2.mp3</original>
+    <mtime>1454893938</mtime>
+    <size>22192</size>
+    <md5>435e60dc18b9059de737e5ba4c55761c</md5>
+    <crc32>6d3cecac</crc32>
+    <sha1>c1ea6d3a72e8da46dd6c63602225b6aa5508d449</sha1>
+  </file>
+  <file name="TheoryOfEverything2_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>TheoryOfEverything2.mp3</original>
+    <mtime>1454893781</mtime>
+    <size>272295</size>
+    <md5>c84576169b41435b3b4f9ef2a6d06390</md5>
+    <crc32>d9f22863</crc32>
+    <sha1>4d40b50da2489b7e2cf64a3bae38cb3073ca7b54</sha1>
+  </file>
+  <file name="TheoryOfEverything_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>TheoryOfEverything_esslow.json.gz</original>
+    <mtime>1454894303</mtime>
+    <size>1984</size>
+    <md5>155109504463f3bb18eea6f6ce0d47f3</md5>
+    <crc32>d75c0b38</crc32>
+    <sha1>5f3b79c51391aecc529f700a186a7db11b5c6acd</sha1>
+  </file>
+  <file name="TheoryOfEverything_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>TheoryOfEverything.mp3</original>
+    <mtime>1454893991</mtime>
+    <size>22190</size>
+    <md5>b412d32152c49fd736c892d404b74232</md5>
+    <crc32>bda510ba</crc32>
+    <sha1>b54d8c35132d96de12eb62dc2bc5c28f6eeb0424</sha1>
+  </file>
+  <file name="TheoryOfEverything_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>TheoryOfEverything.mp3</original>
+    <mtime>1454893794</mtime>
+    <size>278028</size>
+    <md5>f3c36c9a1ea209eff8a8a2dcf9b15454</md5>
+    <crc32>ea255043</crc32>
+    <sha1>1e9b881bb2bef6c5a5eda4414ccd27dd0a673299</sha1>
+  </file>
+  <file name="TimeMachine.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>TimeMachine.mp3</original>
+    <mtime>1454894152</mtime>
+    <size>23032</size>
+    <md5>19e159551e794fdfe7acf45fb8ca3180</md5>
+    <crc32>69f13b95</crc32>
+    <sha1>98d00bb21c7956d5283349d298bdaed49f8e3c66</sha1>
+  </file>
+  <file name="TimeMachine.mp3" source="original">
+    <mtime>1454893490</mtime>
+    <size>1567587</size>
+    <md5>9f291d97004a20eecefbaae7a4ad900c</md5>
+    <crc32>0b013b66</crc32>
+    <sha1>19326dd2afb659a59056940b675ac9b3727043b4</sha1>
+    <format>VBR MP3</format>
+    <length>97.93</length>
+    <height>0</height>
+    <width>0</width>
+    <artist>Waterflame</artist>
+  </file>
+  <file name="TimeMachine.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>TimeMachine.mp3</original>
+    <mtime>1454893607</mtime>
+    <size>1388286</size>
+    <md5>80bcdf5250d579a198f31fff345675de</md5>
+    <crc32>68be2949</crc32>
+    <sha1>818b49adc924e5cd434ba59d248ce830c2ab7069</sha1>
+    <length>97.9</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="TimeMachine.png" source="derivative">
+    <format>PNG</format>
+    <original>TimeMachine.mp3</original>
+    <mtime>1454893707</mtime>
+    <size>10571</size>
+    <md5>3c67f4f0d4e03f55800f7b70e4c6e18e</md5>
+    <crc32>5c1b1d4c</crc32>
+    <sha1>a091a08a878c49f5185d945c5522e60a53451fd6</sha1>
+  </file>
+  <file name="TimeMachine_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>TimeMachine_esslow.json.gz</original>
+    <mtime>1454894321</mtime>
+    <size>1882</size>
+    <md5>4e5f197466a64decbd1a1da154509438</md5>
+    <crc32>89f6f510</crc32>
+    <sha1>bd6bb3b5f5fcc038a5751a9f4dfc785a679b23b6</sha1>
+  </file>
+  <file name="TimeMachine_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>TimeMachine.mp3</original>
+    <mtime>1454893928</mtime>
+    <size>22468</size>
+    <md5>0c7afa7fd0052813cc2feaa8a6648dea</md5>
+    <crc32>88f3d25c</crc32>
+    <sha1>def2090bbf2382f45e78037adb6d28c9118919b0</sha1>
+  </file>
+  <file name="TimeMachine_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>TimeMachine.mp3</original>
+    <mtime>1454893770</mtime>
+    <size>270824</size>
+    <md5>c5989c929dba744d8de6faa3c78cc7d4</md5>
+    <crc32>1121e6ab</crc32>
+    <sha1>b800bacd02b0c966b6e5aa8746697b22af7a9ece</sha1>
+  </file>
+  <file name="geometry_dash_music_archive.torrent" source="metadata">
+    <btih>5482522282c94b527156692d8c6b4115880d7c4c</btih>
+    <mtime>1485549156</mtime>
+    <size>32125</size>
+    <md5>0e35acfdcea80e9d9c249c5d3a7d87a2</md5>
+    <crc32>c74a533b</crc32>
+    <sha1>b0cc0d32beb17f76fb31308b941257b2a2e7c23c</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="geometry_dash_music_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>55d4ed07fd9ea0e282a7767e677cd7f5</md5>
+  </file>
+  <file name="geometry_dash_music_meta.sqlite" source="original">
+    <mtime>1454893551</mtime>
+    <size>37888</size>
+    <format>Metadata</format>
+    <md5>e65c3208c38385a3114806b924210c37</md5>
+    <crc32>f0baaf2e</crc32>
+    <sha1>1494fbe8d3ddb37c49709ad815b61a4486f3c5d8</sha1>
+  </file>
+  <file name="geometry_dash_music_meta.xml" source="original">
+    <mtime>1485549153</mtime>
+    <size>727</size>
+    <format>Metadata</format>
+    <md5>d34185479262e0aaa648cfcd32bab86d</md5>
+    <crc32>51581fda</crc32>
+    <sha1>96b712a7db210c85a7343eb42a0bdcd4e7ccd83e</sha1>
+  </file>
+  <file name="menuLoop.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>menuLoop.mp3</original>
+    <mtime>1454894058</mtime>
+    <size>4904</size>
+    <md5>42810c693808b46d15e2a0bfdbffff2a</md5>
+    <crc32>f7024e68</crc32>
+    <sha1>e04b927a824711381431da4bc79b4ceb31449005</sha1>
+  </file>
+  <file name="menuLoop.mp3" source="original">
+    <mtime>1454893424</mtime>
+    <size>480723</size>
+    <md5>7fa2dbe26bdbac59cd5edbff7a590722</md5>
+    <crc32>617917aa</crc32>
+    <sha1>a1e1b0ab974f94df294d7b828d6ab38528983800</sha1>
+    <format>VBR MP3</format>
+    <length>30.04</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="menuLoop.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>menuLoop.mp3</original>
+    <mtime>1454893679</mtime>
+    <size>341068</size>
+    <md5>05ba965def89292068f9f9aa73879c0e</md5>
+    <crc32>ea8ae956</crc32>
+    <sha1>dee00ce24b3b06f63b4a5938ae844678296f7d7d</sha1>
+    <length>30.04</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="menuLoop.png" source="derivative">
+    <format>PNG</format>
+    <original>menuLoop.mp3</original>
+    <mtime>1454893756</mtime>
+    <size>13819</size>
+    <md5>88f4d64efea9b2cc699f9269d87c8fe6</md5>
+    <crc32>3e02b154</crc32>
+    <sha1>7b7394c00dc165ae327545afefafc0b7312b0c65</sha1>
+  </file>
+  <file name="menuLoop_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>menuLoop_esslow.json.gz</original>
+    <mtime>1454894316</mtime>
+    <size>1845</size>
+    <md5>18f9a555f73b95990d7495024089469c</md5>
+    <crc32>9333ac4d</crc32>
+    <sha1>4f1b4c25861737b37dd4d07aab3d9c0b9e2f0b0f</sha1>
+  </file>
+  <file name="menuLoop_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>menuLoop.mp3</original>
+    <mtime>1454893942</mtime>
+    <size>21338</size>
+    <md5>5e56d19d1bb1e522000012baccd9dd2f</md5>
+    <crc32>7698742f</crc32>
+    <sha1>84fd9c412c8fb591d9c6e94134c84bcda2bc2238</sha1>
+  </file>
+  <file name="menuLoop_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>menuLoop.mp3</original>
+    <mtime>1454893780</mtime>
+    <size>259429</size>
+    <md5>5ab1e2b2f6ab0a5610946f5d08ff5c35</md5>
+    <crc32>aa58ab82</crc32>
+    <sha1>bd6224a6b5ad5176429d99301d0385b24b022aba</sha1>
+  </file>
+  <file name="secretLoop.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>secretLoop.mp3</original>
+    <mtime>1454894032</mtime>
+    <size>2208</size>
+    <md5>09917520829ce916394d3945b9d15cc4</md5>
+    <crc32>c2b490ca</crc32>
+    <sha1>1b0fb0980a4cdc7b1b2c52ca32e50347c4323114</sha1>
+  </file>
+  <file name="secretLoop.mp3" source="original">
+    <mtime>1454893439</mtime>
+    <size>312352</size>
+    <md5>b15b018a138876e73e32b60dcde468c0</md5>
+    <crc32>f8616f35</crc32>
+    <sha1>cf9ed9dd014a58855e36ac04a7dafa9feabaa2e0</sha1>
+    <format>VBR MP3</format>
+    <length>19.25</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="secretLoop.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>secretLoop.mp3</original>
+    <mtime>1454893596</mtime>
+    <size>186365</size>
+    <md5>4bcbe2fbe7b4e64910373af445d50f2e</md5>
+    <crc32>f4e09de3</crc32>
+    <sha1>80a9080359ceb001ecbb172ca537d1acd93d327b</sha1>
+    <length>19.25</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="secretLoop.png" source="derivative">
+    <format>PNG</format>
+    <original>secretLoop.mp3</original>
+    <mtime>1454893754</mtime>
+    <size>8894</size>
+    <md5>2f9c5fdd5d36bcc0cceb07652112b6c9</md5>
+    <crc32>cc35278c</crc32>
+    <sha1>24b31d42d8d2c7de84b63c7f8e843f3601d52b1f</sha1>
+  </file>
+  <file name="secretLoop_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>secretLoop_esslow.json.gz</original>
+    <mtime>1454894312</mtime>
+    <size>1846</size>
+    <md5>3bfe656dd51d9cc152b7db8ef854af89</md5>
+    <crc32>9486b081</crc32>
+    <sha1>d53e7956d3e79fc6c2ede202f98dfa0e6758e0b1</sha1>
+  </file>
+  <file name="secretLoop_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>secretLoop.mp3</original>
+    <mtime>1454893977</mtime>
+    <size>20962</size>
+    <md5>4e1a556cc20512fc985010898398ca10</md5>
+    <crc32>e8dd75fb</crc32>
+    <sha1>a56f8544cd9568f6059213c12fd368cc172d8e25</sha1>
+  </file>
+  <file name="secretLoop_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>secretLoop.mp3</original>
+    <mtime>1454893774</mtime>
+    <size>176989</size>
+    <md5>c0584052ac956e445ee3d50b416c9e41</md5>
+    <crc32>4d45ebce</crc32>
+    <sha1>bc2b34f6d3a4834066bb48bed86020bcc12fea67</sha1>
+  </file>
+  <file name="xStep.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>xStep.mp3</original>
+    <mtime>1454894137</mtime>
+    <size>19336</size>
+    <md5>476c9942e78a4852136c14f21e6396e1</md5>
+    <crc32>f4a23a53</crc32>
+    <sha1>be19d2611dc19242db75ba3474f6ffc0cd84e555</sha1>
+  </file>
+  <file name="xStep.mp3" source="original">
+    <mtime>1454893505</mtime>
+    <size>1368098</size>
+    <md5>57390e094c37599a790095af692cc039</md5>
+    <crc32>dceb0063</crc32>
+    <sha1>3d08f483e1a43f029164eb06d89693446f314f48</sha1>
+    <format>VBR MP3</format>
+    <length>85.47</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="xStep.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>xStep.mp3</original>
+    <mtime>1454893613</mtime>
+    <size>1009510</size>
+    <md5>269b736e0509bb7898531c2d79c3baca</md5>
+    <crc32>5571cf02</crc32>
+    <sha1>3877ec8ab3585cf40c39fb044ca8f0de2362f8c2</sha1>
+    <length>85.42</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="xStep.png" source="derivative">
+    <format>PNG</format>
+    <original>xStep.mp3</original>
+    <mtime>1454893699</mtime>
+    <size>9348</size>
+    <md5>c901cbc4b4a626d1b01e6d1ec5f64d3d</md5>
+    <crc32>d0d47ca1</crc32>
+    <sha1>e4b2c33b13202cac3efe67d7c3784dc44627d7e9</sha1>
+  </file>
+  <file name="xStep_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>xStep_esslow.json.gz</original>
+    <mtime>1454894308</mtime>
+    <size>1854</size>
+    <md5>da54f65230337773eab6712d931691ab</md5>
+    <crc32>1e0cda0b</crc32>
+    <sha1>7aee8279d86aa8804bbb9a49a8affb8dce7ba8bb</sha1>
+  </file>
+  <file name="xStep_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>xStep.mp3</original>
+    <mtime>1454893973</mtime>
+    <size>21907</size>
+    <md5>f2d4225b934adb270d1402ace6271f01</md5>
+    <crc32>b9f0c957</crc32>
+    <sha1>bb1b5c781943a943ed616ee33fd3f5839f7a9400</sha1>
+  </file>
+  <file name="xStep_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>xStep.mp3</original>
+    <mtime>1454893779</mtime>
+    <size>263578</size>
+    <md5>fbc0ecc4ba35d50cfdbfa21301842f51</md5>
+    <crc32>0f9ad3d3</crc32>
+    <sha1>3ca4d8432a8acbc00cb23b02b5ca1840d3a4a8bb</sha1>
+  </file>
+</files>
